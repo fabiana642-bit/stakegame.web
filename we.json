@@ -1,0 +1,5 @@
+{
+    "cmd": ["open", "-a", "Google Chrome", "$file"],
+    "selector": "tindex.html",
+    "shell": true
+}
